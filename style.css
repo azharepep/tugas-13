@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    padding: 20px 30px;
+}
+th, td {
+    border: 2px solid pink;
+    padding: 4px;
+    text-align: center;
+}
+th {
+    background-color: red;
+}
+h2 {
+    font-style:calc(solid);
+    font-size: 30px;
+}
+div {
+    border-radius: 3px solid ;
+}
